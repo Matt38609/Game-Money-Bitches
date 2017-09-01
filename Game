@@ -1,6 +1,3 @@
-Imports System.Drawing
-
-
 Public Class game
     ' GRAPHICS VARIABLES
     Dim G As Graphics
@@ -11,12 +8,12 @@ Public Class game
     ' FPS Counter
     Dim tSec As Integer = TimeOfDay.Second
     Dim tTicks As Integer = 0
-    Dim maxTicks As Integer
+    Dim maxTicks As Integer = 0
 
     ' GAME RUNNING
     Dim isRunning As Boolean = True
 
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+    Private Sub game_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Me.Show()
         Me.Focus()
 
@@ -54,7 +51,6 @@ Public Class game
 
                 G.FillRectangle(Brushes.BurlyWood, r)
                 G.DrawRectangle(Pens.Black, r)
-
             Next
         Next
 
@@ -68,7 +64,8 @@ Public Class game
         ' DRAW BACKBUFFER TO SCREEN
         BBG = Me.CreateGraphics
         BBG.DrawImage(BB, 0, 0, Me.Width, Me.Height)
-        Finalize()
+
+        G.Clear(Color.Wheat)
     End Sub
 
     Private Sub TickCounter()
@@ -78,8 +75,6 @@ Public Class game
             maxTicks = tTicks
             tTicks = 0
             tSec = TimeOfDay.Second
-
-
         End If
     End Sub
 End Class
