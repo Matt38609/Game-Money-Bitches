@@ -1,4 +1,4 @@
-# Matt-Zaq
+# Game-Money-Bitches
 Project One
 
 [Unity Download](https://unity3d.com/get-unity/download)
