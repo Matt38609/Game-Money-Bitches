@@ -18,5 +18,6 @@ Running List Of Everything We Need:
 * TileMaps
 * Battle System
 * Animations
+* Bitches
 * Collisions
 * Map Layers
