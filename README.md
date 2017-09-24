@@ -19,3 +19,6 @@ Running List Of Everything We Need:
 Sprites
 TileMaps
 Battle System
+Animations
+Collisions
+Map Layers
