@@ -6,11 +6,13 @@ Project One
 [Unity Tutorials](https://unity3d.com/learn/tutorials?_ga=2.7882482.1963065135.1506125152-1551424344.1506125152)
 
 [Tiled2Unity](http://www.seanba.com/tiled2unity)
-
+ - Tiled Map Transfer
+ 
 [Tiled](http://www.mapeditor.org/)
-
+ - Tiled Map Editor
+ 
 [Gimp2](https://www.gimp.org/downloads/)
-
+ - Sprite Editor (Photoshop)
 
 Running List Of Everything We Need:
 
