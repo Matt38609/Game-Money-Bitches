@@ -14,9 +14,6 @@ Project One
 [Gimp2](https://www.gimp.org/downloads/)
  - Sprite Editor (Photoshop)
 
-Running List Of Everything We Need:
-Can we get a brief description of the characteristics of these things, plz?
-
 * Sprites
    - We need to make custom sprites in Gimp2 so we don't get sued for copyright.
    - Instead of pokemon we should base the sprites on different creatures:
