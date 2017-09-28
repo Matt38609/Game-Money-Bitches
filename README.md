@@ -15,6 +15,7 @@ Project One
  - Sprite Editor (Photoshop)
 
 Running List Of Everything We Need:
+Can we get a brief description of the characteristics of these things, plz?
 
 * Sprites
 * TileMaps
