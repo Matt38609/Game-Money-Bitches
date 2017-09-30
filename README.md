@@ -26,7 +26,7 @@ List Of Things We Need To Do:
     - We also need a new tileset so as not to get copyrighted
      - We'll have to come up with a theme together so we'll know what they need to look like
 * TileMaps
-   - Take those "brand spanking new tilesets" and make some "BOSS" maps out of them
+   - Take those "brand spanking new tilesets" and make some "BOSS" (Awesome) maps out of them
    - Maps should be open world design like breath of the wild
 * Battle System
    - Need collisions in tiles (Tall Grass Tiles in Pokemon) to activate battle sequences
