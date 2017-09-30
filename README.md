@@ -51,7 +51,8 @@ List Of Things We Need To Do:
 * Menus
     - When a key is pressed a START menu pops up
     - Link that to things like accessing the database, access the store of items, etc
-
+* Title Screen
+    - New Game, Continue, etc.
 
 
 
