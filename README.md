@@ -39,7 +39,7 @@ List Of Things We Need To Do:
 * Collisions
    - We need to fix the tile collisions so the character quits spazzing out of bounds.
 * Map Layers
-   - I don't remember what this one was - probably something with the collisions
+   - Ensure the player sprite won't walk infront of trees, etc.
 * Actor Database
    - Actors = Pokemon
    - Create some kind of database to store the actor values
