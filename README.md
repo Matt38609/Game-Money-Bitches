@@ -1,5 +1,5 @@
 # Game-Money-Bitches
-Project One
+2D RPG Game
 
 [Unity Download](https://unity3d.com/get-unity/download)
 
@@ -18,16 +18,8 @@ List Of Things We Need To Do:
 
 * Sprites
    - We need to make custom sprites in Gimp2 so we don't get sued for copyright.
-   - Instead of pokemon we should base the sprites on different creatures:
-     - Classes
-      - God Tier (Don't know yet)
-      - Mythical (ex: Dragons, Phoenix, Leviathan)
-      - Real World (Polar Bear, Wolf, etc.)
-    - We also need a new tileset so as not to get copyrighted
-     - We'll have to come up with a theme together so we'll know what they need to look like
 * TileMaps
-   - Take those "brand spanking new tilesets" and make some "BOSS" (BOSS Awesome not BOSS boss battle) maps out of them
-   - Maps should be open world design like breath of the wild
+  - Need to Make Custom Tilesets Based on Theme.
 * Battle System
    - Need collisions in tiles (Tall Grass Tiles in Pokemon) to activate battle sequences
    - Need to come up with the battle sequence
@@ -37,22 +29,15 @@ List Of Things We Need To Do:
 * Animations
    - Walking animations for player character and other in game characters
 * Collisions
-   - We need to fix the tile collisions so the character quits spazzing out of bounds.
+   - Set player movement to 0 upon collision.
 * Map Layers
    - Ensure the player sprite won't walk infront of trees, etc.
 * Actor Database
-   - Actors = Pokemon
-   - Create some kind of database to store the actor values
-      - Stats (Attack, Speed, etc)
-      - Held Items
-      - Abilities
-      - Rarity
-      - Etc.
+   - Fill Database and make it easy to reference for coding.
 * Menus
-    - When a key is pressed a START menu pops up
-    - Link that to things like accessing the database, access the store of items, etc
+    - Populate Menu With Links to Scripts (Actor DB, etc)
 * Title Screen
-    - New Game, Continue, etc.
+    - Finish Coding (Saving,Loading,etc.)
 
 
 
