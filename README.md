@@ -30,8 +30,6 @@ List Of Things We Need To Do:
    - Walking animations for player character and other in game characters
 * Collisions
    - Set player movement to 0 upon collision.
-* Map Layers
-   - Ensure the player sprite won't walk infront of trees, etc.
 * Actor Database
    - Fill Database and make it easy to reference for coding.
 * Menus
