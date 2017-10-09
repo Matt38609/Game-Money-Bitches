@@ -38,7 +38,8 @@ List Of Things We Need To Do:
     - Finish Coding (Saving,Loading,etc.)
 * Map Warping
     - Warping between maps when a collision in entered.
-
+* Create a Dialog Manager
+    - Used to call text when needed in the game.
 
 
 
