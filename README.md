@@ -40,7 +40,9 @@ List Of Things We Need To Do:
     - Warping between maps when a collision in entered.
 * Create a Dialog Manager
     - Used to call text when needed in the game.
-
+* Inventory
+    - Create items to be stored in inventory
+    - Map these items to the players inventory
 
 
 
